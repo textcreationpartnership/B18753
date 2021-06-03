@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of all the musick-bookes that have been printed in England, either for voyce or instruments.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18753</idno><idno type="EEBO-CITATION">99888359</idno>
+  <idno type="VID">202925</idno>
+  <idno type="EEBO-PROQUEST">2240890831</idno>
+  
+            <idno type="STC">Wing C1269A</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.5936[421]</idno>
+            <idno type="STC">ESTC R229378</idno>
+            <idno type="PROQUEST">ocm99888359</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888359e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 202925)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E1:3[275-276])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of all the musick-bookes that have been printed in England, either for voyce or instruments.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by John Playford, at his shop in the Inner Temple neare the churche doore, or at his house in three Leg Alley, in Fetter lane, next doore to the red Lyon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption.</note>
+                  <note>Imprint date suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Music --  Bibliography --  Catalogs --  Early works to 1800.</term>
+               <term type="topical_term">Catalogs, Booksellers' --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="catalogue_of_published_music_books">
+            <pb facs="tcp:202925:1"/>
+            <pb facs="tcp:202925:1"/>
+            <head>A CATALOGUE OF ALL THE MUSICK-BOOKES That have been Printed in <hi>England,</hi> either for Voyce or Instruments.</head>
+            <list>
+               <head>Musick Bookes in folio.</head>
+               <item>ALfonso his Ayres.</item>
+               <item>Alphonso his Lyra Lessons.</item>
+               <item>Allisons Psalms, of 4 parts, ac<g ref="char:EOLhyphen"/>cording to the Church Tunes.</item>
+               <item>Bartlets Ayres.</item>
+               <item>Coperario's first Booke.</item>
+               <item>Coperario's second Booke.</item>
+               <item>Corkins Ayres, first Booke.</item>
+               <item>Corkins Ayres second Booke.</item>
+               <item>Cavendish his Ayres.</item>
+               <item>Campions first and second Books.</item>
+               <item>Campions third and fourth Books.</item>
+               <item>Dowlands Introduction.</item>
+               <item>Dowlands first Booke.</item>
+               <item>Dowlands second Booke.</item>
+               <item>Dowlands third Booke.</item>
+               <item>Dowlands fourth Booke.</item>
+               <item>Dowlands fift Booke.</item>
+               <item>R. Dowlands Lute Lessons.</item>
+               <item>R. Dowlands Ayres.</item>
+               <item>Daniels Ayres.</item>
+               <item>Fords Ayres.</item>
+               <item>Filmers Ayres.</item>
+               <item>Greaves Ayres.</item>
+               <item>Humes first Booke.</item>
+               <item>Humes second Booke.</item>
+               <item>Jones first Booke.</item>
+               <item>Jones second Booke.</item>
+               <item>Jones ultimum vale.</item>
+               <item>Jones Musicall Dreame.</item>
+               <item>Jones Muses Garden.</item>
+               <item>Leightons select Songs of 4 and 5 parts.</item>
+               <item>Morley's Introduction.</item>
+               <item>Morley's Ayres.</item>
+               <item>Morley's Consort.</item>
+               <item>Maynards Ayres.</item>
+               <item>Masons Ayres.</item>
+               <item>Pilkingtons Ayres.</item>
+               <item>Rosseters Ayres.</item>
+               <item>Rosseters Consort.</item>
+               <item>Robinsons Schoole of Musick.</item>
+               <item>Book of Virginall Lessons by Mr. Bird, Dr. Bull, and Orlando Gibbons.</item>
+            </list>
+            <list>
+               <head>Musick Books in quarto.</head>
+               <item>ALlisons 5 parts.</item>
+               <item>Adsons Courts Masking Ayres. 5 and 6 parts</item>
+               <item>Amners set to 3, 4, 5, 6 parts.</item>
+               <item>Bathes Introduction.</item>
+               <item>Butlers principles of Musick.</item>
+               <item>Birds Kirries 3 parts.</item>
+               <item>Birds Kirries 4 parts.</item>
+               <item>Birds kirries 5 parts.</item>
+               <item>Birds 5. parts wherein is Lullaby.</item>
+               <item>Birds 3, 4, 5, 6 parts, English.</item>
+               <item>Birds 5 parts Latine, <hi>Ne Irascaris.</hi> 1. set.</item>
+               <item>Birds 5, 6 parts Latine, <hi>Infoelix ego,</hi> 2. set.</item>
+               <item>Birds 1. set of Gradualia. 5, 4, 3 parts.</item>
+               <item>Birds 2. set of Gradualia. 4, 5, 6, parts.</item>
+               <item>Birds 2. set English.</item>
+               <item>Batesons 3, 4, 5, 6 parts, 1. set.</item>
+               <item>Batesons 3, 4, 5, 6 parts, 2. set.</item>
+               <item>Bennets Madrigals, 4 parts.</item>
+               <item>Bevens Canons upon divers plain songs.</item>
+               <item>Cosins Psalms, 5, 6 parts.</item>
+               <item>Carltons 5 parts.</item>
+               <item>Croces 6 parts.</item>
+               <item>D. Campions Book of Counter-point.</item>
+               <item>Damons Psalms 4 parts 1. set.</item>
+               <item>Damons Psalms 4 parts, 2. set.</item>
+               <item>Easts first set, 3, 4, 5 parts.</item>
+               <item>Easts second set, 3, 4, 5 parts.</item>
+               <item>Easts third set, 5, 6 parts.</item>
+               <item>Easts fourth set, 4, 5, 6 parts.</item>
+               <item>Easts fifth set, 4, 5, and 6 parts.</item>
+               <item>Easts sixth set, 5 and 6 parts.</item>
+               <item>Easts 7. set of fantasies, 2, 3, &amp; 4 parts.</item>
+               <item>Easts three parts.</item>
+               <item>Farmers two parts in one.</item>
+               <item>Farmers Madrigals 4 parts.</item>
+               <item>Gibbons Madrigals, 5 parts.</item>
+               <item>Gibbons 3 part fantasies, graven upon Copper.</item>
+               <item>Holbornes Cittern Booke.</item>
+               <item>Holbornes Pavin, 5 partr.</item>
+               <item>Hiltons 3 parrs Fa la's.</item>
+               <item>Jones 3, 4, 5, 6, 7, 8 parts.</item>
+               <item>Kirbies 3, 4, 5, 6 parts.</item>
+               <item>Lichfields 3, 4, 5 parts.</item>
+               <item>Lessons for the Lute, Orph. &amp; Bando.</item>
+               <item>Morley's 2 parts English.</item>
+               <item>Morley's 2 parts Italian.</item>
+               <item>Morley's Canzonets, 3 parts.</item>
+               <item>Morley's Madrigals 4 parts.</item>
+               <item>Morleys 4 parts selected.</item>
+               <item>Morley's 5 parts selected.</item>
+               <item>Morley's fa la's English, 5 parts.</item>
+               <item>Morley's fa la's Italian, 5 parts.</item>
+               <item>Morley's Ayres 5 parts.</item>
+               <item>Mundayes 3, 4, 5 parts.</item>
+               <item>Orlando's d'Lasso's 2 parts, Latine.</item>
+               <item>Oriana's 5 and 6 parts.</item>
+               <item>Pilkingtons 3, 4, 5 parts.</item>
+               <item>Path-way to Musick.</item>
+               <item>Persons 5 and 6 parts.</item>
+               <item>Persons Ayres and Dialogues, 4 and 5 parts.</item>
+               <item>Robinsons Citharen Booke.</item>
+               <item>Ravenscrofts Book of Catches.</item>
+               <item>Ravenscrofts Psalms of 4 parts.</item>
+               <item>Tallis and Birds Latine, 5 and 6 parts.</item>
+               <item>Taylors Psalms of five parts.</item>
+               <item>Vauters set of 5 and 6 parts.</item>
+               <item>Wilbies first set, 3, 4, 5, 6 parts.</item>
+               <item>Wilbies second set 3, 4, 5, 6 parts.</item>
+               <item>Warsons 4, 5, 6 parts, collected.</item>
+               <item>Withornes two parts.</item>
+               <item>Withornes 4, 5 parts.</item>
+               <item>Wilkes 3, 4, 5, 6 parts.</item>
+               <item>Wilkes fa la's, 5, 6 parts.</item>
+               <item>Wilkes third set, 5, 6 parts.</item>
+               <item>Wilkes Fantasticks, 3 parts.</item>
+               <item>Wards set to 3, 4, 5, 6 parts.</item>
+               <item>Yongs first set, 4, 5, 6 parts.</item>
+               <item>Yongs second set, 5, 6 parts.</item>
+               <item>Youles Canzonets, 3 parts.</item>
+               <item>Pamelia, a Book of Catches of 3, 4, 5, 6, 7, 8, 9, &amp; 10 parts.</item>
+               <item>Deutranela Book of Catches and Free-mans songs of 2 and 3 parts.</item>
+            </list>
+            <pb facs="tcp:202925:2"/>
+            <pb facs="tcp:202925:2"/>
+            <list>
+               <head>Musick Bookes lately Printed.</head>
+               <item>MR. <hi>Porters</hi> set of Ayres for 2, 3, 4, and 5 Voyces, with a through Basse after the Italian way.</item>
+               <item>Mr. <hi>Henry</hi> and Mr. <hi>William Lawes</hi> set of Psalms, to Mr. <hi>Sands</hi> Translation, for 3 Voyces, with a through Basse.</item>
+               <item>Mr. <hi>Henry Lawes</hi> Musick for 2 Voyces to Mr. <hi>Sands</hi> Transla<g ref="char:EOLhyphen"/>tion of the Psalmes, <hi>fol.</hi> and <hi>oct.</hi>
+               </item>
+               <item>Mr <hi>William Childs</hi> set of Psalms for 3 Voyces, after the Ita<g ref="char:EOLhyphen"/>lian way, with a through Basse, cut in Copper.</item>
+               <item>A Booke of select Ayres and Dialogues for 1, 2, and 3 Voy<g ref="char:EOLhyphen"/>ces to sing to the <hi>Theorbo,</hi> or <hi>Basse Violl,</hi> cemposed by Dr. <hi>Wilson,</hi> Dr. <hi>Colman,</hi> Mr. <hi>Henry,</hi> and Mr. <hi>William Lawes,</hi> and other excellent Masters in Musick.</item>
+               <item>A Book of Ayres and Dialogues for 1, 2, and 3 Voyces, by Mr. <hi>Henry Lawes.</hi>
+               </item>
+               <item>A Book of <hi>Catches, Rounds,</hi> and <hi>Canons,</hi> collected and pub<g ref="char:EOLhyphen"/>lished by <hi>John Hilton.</hi>
+               </item>
+               <item>Musicks Recreation, or choice Lessons for the Lyra Violl to severall new tunings, composed by severall Excellent Masters.</item>
+               <item>A New Booke of Lessons and Instructions for the <hi>Cithern,</hi> and <hi>Gittern.</hi>
+               </item>
+               <item>A New Book, Entituled, the <hi>Dancing Master,</hi> or plain and easie Rules for the Dancing of Countrey Dances, with the Tunes to each Dance, to be playd on the <hi>Treble Vi<g ref="char:EOLhyphen"/>olin.</hi>
+               </item>
+               <item>
+                  <hi>Renatus Des Cartes</hi> his <hi>Compendium</hi> of Musick in English.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be sold by <hi>John Playford,</hi> at his shop in the Inner Temple neare the Church doore, or at his house in three Leg Alley, in Fetter lane, next doore to the red Lyon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
